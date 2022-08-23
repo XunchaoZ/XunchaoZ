@@ -12,6 +12,8 @@ Projects:
 2. Sorting Algorithm Visualizer
 3. Stock/Crypto Trading Analysis
 4. Functional Language Intepreter
+5. Catan Game
+6. Lacs Language Compiler
 
 <!---
 XunchaoZ/XunchaoZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
