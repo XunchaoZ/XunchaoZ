@@ -2,7 +2,7 @@
 
 A few things about myself:
 - Candidate for Bachelor of Mathematics at University of Waterloo
-- Planning to complete quad majors: Pure Mathematics, Mathematical Finance, Statistics, Combinatorics & Optimization
+- Planning to complete quad majors: Computer Science, Pure Mathematics, Mathematical Finance, Statistics
 - Solid background in theoretical/applied mathematics, statistics, with considerable knowledge in machine learning
 - Eagerness in learning complex topics in computer science
 - Experience in mathematical competitions
