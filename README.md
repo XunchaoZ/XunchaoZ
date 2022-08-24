@@ -8,13 +8,14 @@ A few things about myself:
 - Experience in mathematical competitions
 
 Projects:
-1. Tic-Tac-Toe Game
-2. Sorting Algorithm Visualizer
-3. Stock/Crypto Trading Analysis
-4. Functional Language Intepreter
-5. Catan Game
-6. Lacs Language Compiler
+1. Tic-Tac-Toe Game (Python)
+2. Sorting Algorithm Visualizer (Python)
+3. Stock/Crypto Trading Analysis (Python)
+4. Functional Language Intepreter (C++)
+5. Catan Game (C++)
+6. Lacs Language Compiler (Scala)
 
+These projects are stored privately. Please contact me for the code with appropriate reasons.
 <!---
 XunchaoZ/XunchaoZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
