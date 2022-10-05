@@ -8,12 +8,12 @@ A few things about myself:
 - Experience in mathematical competitions
 
 Projects:
-1. Tic-Tac-Toe Game (Python)
-2. Sorting Algorithm Visualizer (Python)
-3. Stock/Crypto Trading Analysis (Python)
-4. Functional Language Intepreter (C++)
-5. Catan Game (C++)
-6. Lacs Language Compiler (Scala)
+1. Tic-Tac-Toe Game (Python) (2020)
+2. Sorting Algorithm Visualizer (Python) (2021)
+3. Stock/Crypto Trading Analysis (Python) (2021)
+4. Functional Language Intepreter (C++) (2021)
+5. Catan Game (C++) (2021)
+6. Lacs Language Compiler (Scala) (2021)
 
 These projects are stored privately. Please contact me for the code with appropriate reasons.
 <!---
