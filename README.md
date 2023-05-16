@@ -14,8 +14,8 @@ Projects:
 4. Functional Language Intepreter (C++) (2021)
 5. Catan Game (C++) (2021)
 6. Lacs Language Compiler (Scala) (2021)
-7. Cryptocurrency Trading Platform and Backtesting System (2022 - Present)
-8. Google Review Reliability Checker (2023)
+7. Cryptocurrency Trading Platform and Backtesting System (Python) (2022 - Present)
+8. Google Review Reliability Checker (Javascript) (2023)
 
 These projects are stored privately. Please contact me for the code with appropriate reasons.
 <!---
